@@ -6520,7 +6520,7 @@ a.close.disabled {
 }
 
 .bg-image {
-  background-image: url('C:\\Users\\Maciej Stanuch\\dev\\TRAM\\Tram-2.0\\static\\img\\feature_image.jpg') !important;
+  background-image: url('../../../static/img/feature_image.jpg') !important;
   background-position: center;
   background-size: 150%;
   background-repeat: no-repeat;
