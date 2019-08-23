@@ -6537,7 +6537,7 @@ a.close.disabled {
 
 @media(min-width:1027px){
   .bg-image {
-    background-image: url('C:\\Users\\Maciej Stanuch\\dev\\TRAM\\Tram-2.0\\static\\img\\feature_image.jpg') !important;
+    background-image: url('../../../static/img/feature_image.jpg') !important;
     background-color: #000000;
     background-position: center;
     background-size: auto;
